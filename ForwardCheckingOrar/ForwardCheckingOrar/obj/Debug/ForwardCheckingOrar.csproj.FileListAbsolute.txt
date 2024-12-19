@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\AC4 PROGRESS\IA\Project\ForwardCheckingOrar\ForwardCheckingOrar\bin\Debug\ForwardCheckingOrar.exe.config
+C:\Users\Admin\Desktop\AC4 PROGRESS\IA\Project\ForwardCheckingOrar\ForwardCheckingOrar\bin\Debug\ForwardCheckingOrar.exe
+C:\Users\Admin\Desktop\AC4 PROGRESS\IA\Project\ForwardCheckingOrar\ForwardCheckingOrar\bin\Debug\ForwardCheckingOrar.pdb
+C:\Users\Admin\Desktop\AC4 PROGRESS\IA\Project\ForwardCheckingOrar\ForwardCheckingOrar\obj\Debug\ForwardCheckingOrar.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\AC4 PROGRESS\IA\Project\ForwardCheckingOrar\ForwardCheckingOrar\obj\Debug\ForwardCheckingOrar.Form1.resources
+C:\Users\Admin\Desktop\AC4 PROGRESS\IA\Project\ForwardCheckingOrar\ForwardCheckingOrar\obj\Debug\ForwardCheckingOrar.Properties.Resources.resources
+C:\Users\Admin\Desktop\AC4 PROGRESS\IA\Project\ForwardCheckingOrar\ForwardCheckingOrar\obj\Debug\ForwardCheckingOrar.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\AC4 PROGRESS\IA\Project\ForwardCheckingOrar\ForwardCheckingOrar\obj\Debug\ForwardCheckingOrar.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\AC4 PROGRESS\IA\Project\ForwardCheckingOrar\ForwardCheckingOrar\obj\Debug\ForwardCheckingOrar.exe
+C:\Users\Admin\Desktop\AC4 PROGRESS\IA\Project\ForwardCheckingOrar\ForwardCheckingOrar\obj\Debug\ForwardCheckingOrar.pdb
