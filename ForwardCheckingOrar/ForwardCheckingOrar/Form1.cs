@@ -42,6 +42,13 @@ namespace ForwardCheckingOrar
         {
             if (!string.IsNullOrWhiteSpace(txtGrupa.Text) && !string.IsNullOrWhiteSpace(txtIntervale.Text))
             {
+                if (grupe.Any(g => g.grupa.Equals(txtGrupa.Text, StringComparison.OrdinalIgnoreCase)))
+                {
+                    MessageBox.Show($"Grupa {txtGrupa.Text} exista deja",
+                        "Eroare", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    return;
+                }
+
                 var intervale = new List<(int Start, int End)>();
                 var intervalStrings = txtIntervale.Text.Split(',');
 
