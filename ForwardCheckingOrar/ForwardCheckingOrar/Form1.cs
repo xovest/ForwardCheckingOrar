@@ -25,6 +25,12 @@ namespace ForwardCheckingOrar
         {
             if (!string.IsNullOrWhiteSpace(txtSala.Text))
             {
+                if (sali.Any(s => s.Nume.Equals(txtSala.Text, StringComparison.OrdinalIgnoreCase)))
+                {
+                    MessageBox.Show($"Sala {txtSala.Text} exista deja.", "Eroare", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    return;
+                }
+
                 sali.Add(new Sala { Nume = txtSala.Text });
                 txtSala.Clear();
 
